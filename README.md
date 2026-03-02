@@ -1,4 +1,4 @@
-﻿# OJS-Upacifico
+﻿# OJS
 
 Proyecto de configuracion y despliegue de OJS desarrollado por **Isaac Esteban Haro Torres**.
 
@@ -213,6 +213,7 @@ Agregar:
 ---
 
 Copyright 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
+
 
 
 
